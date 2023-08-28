@@ -1,0 +1,30 @@
+### Java ###
+
+# Compiled class file
+**/*.class
+**/*out
+
+# Log file
+**/*.log
+
+# BlueJ files
+**/*.ctxt
+
+# Mobile Tools for Java (J2ME)
+**/.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Mac OS X normal files to ignore
+**/.DS_Store
+
+# Idea and VSCode
+**/.idea
+**/.vscode
